@@ -12,6 +12,6 @@
   "dependencies": {
     "node-uuid": "^1.4.7",
     "unirest": "^0.5.0",
-    "url-join": "^1.1.0"
+    "url-join": "^2.0.0"
   }
 }
